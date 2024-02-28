@@ -3,4 +3,4 @@ A 30 day vanilla js coding challenge. No Frameworks, No Compilers, No Libraries,
 
 ## Day 1: RhythmRush 
 
-[Repository] (https://github.com/ajeetkumarrauniyar/RhythmRush) [Live Preview] (http://#livePreview)
+[Repository] (https://github.com/ajeetkumarrauniyar/RhythmRush) [Live Preview] (https://ajeetkumarrauniyar.github.io/RhythmRush/)
